@@ -17,10 +17,17 @@ Predictions:
 4.
 
 Data Sets:
-Bloomberg Terminal - Time series historical data of financial data.
+Bloomberg Terminal - Time series historical data of financial and economic metrics.
+
 DATAROMA (https://www.dataroma.com) - Portfolio activity. 
 
-features / observations : 
+Features / observations: 
+Qualitative: Sector, Industry, Sentiment
+
+Financials: Return on Equity (ROE), Return on Assets (ROA), Gross Profit Margin, Operating Profit Margin, Net Profit Margin, EBITDA Margin, Price-to-earnings (P/E), Price-to-book (P/B), Price-to-Free Cash Flow (P/FCF), Dividend Yield, Dividend Payout Ratio, Interest Coverage Ratio, Free Cash Flow, Operating Cash Flow, Inventory Turnover, Earnings Growth Rates, Book Value Growth, Return on Invested Capital (ROIC), Working Capital Metric, Capital Expenditure (CapEx), Property Plant and Equipment (PPE), Retained Earnings, Quick Ratio. 
+
+Economic: Federal Funds Rate, 10-Year Treasury Yield, Inflation Rate (CPI, PPI), GDP Growth Rate, Unemployment Rate, Consumer Confidence Index, Corporate Credit Spreads (Investment Grade vs High Yield), Yield Curve Shape (2s/10s spread), S&P 500 PE Ratio, Volatility (VIX Index), Household Debt-to-Income Ratio. 
+ 
 
 
 
