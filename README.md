@@ -1,4 +1,9 @@
 # team_lambda
+Eliel Polanco 
+Amita Patil 
+Hunter Huberdeau 
+Hayden Realmuto
+
 ### Predicting Investor's Next Stock Purchase
 
 #### Question:
