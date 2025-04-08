@@ -24,7 +24,7 @@ DATAROMA (https://www.dataroma.com) - Portfolio activity.
 
 #### Features and Observations: 
 ##### Qualitative: 
-Sector, Industry, Sentiment
+Sector, Industry, Sentiment 
 
 ##### Financials: 
 Return on Equity (ROE), Return on Assets (ROA), Gross Profit Margin, Operating Profit Margin, Net Profit Margin, EBITDA Margin, Price-to-earnings (P/E), Price-to-book (P/B), Price-to-Free Cash Flow (P/FCF), Dividend Yield, Dividend Payout Ratio, Interest Coverage Ratio, Free Cash Flow, Operating Cash Flow, Inventory Turnover, Earnings Growth Rates, Book Value Growth, Return on Invested Capital (ROIC), Working Capital Metric, Capital Expenditure (CapEx), Property Plant and Equipment (PPE), Retained Earnings, Quick Ratio. 
