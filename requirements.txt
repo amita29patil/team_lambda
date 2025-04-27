@@ -17,6 +17,7 @@ idna==3.10
 ipykernel==6.29.5
 ipython==8.34.0
 ipywidgets==8.1.5
+imblearn==0.13.0
 jedi==0.19.2
 jupyter_client==8.6.3
 jupyter_core==5.7.2
@@ -30,6 +31,7 @@ numpy==2.2.4
 openpyxl==3.1.5
 packaging==24.2
 pandas==2.2.3
+pip==8.1.2
 parso==0.8.4
 pillow==11.1.0
 platformdirs==4.3.7
@@ -45,6 +47,7 @@ pywin32==310
 pyzmq==26.3.0
 requests==2.32.3
 seaborn==0.13.2
+scikit-learn==1.6.1
 six==1.17.0
 snscrape==0.7.0.20230622
 soupsieve==2.6
@@ -57,3 +60,4 @@ tzdata==2025.2
 urllib3==2.3.0
 wcwidth==0.2.13
 widgetsnbextension==4.0.13
+xgboost==3.0.0
