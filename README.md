@@ -31,7 +31,13 @@ Return on Equity (ROE), Return on Assets (ROA), Gross Profit Margin, Operating P
 
 ##### Economic: 
 Federal Funds Rate, 10-Year Treasury Yield, Inflation Rate (CPI, PPI), GDP Growth Rate, Unemployment Rate, Consumer Confidence Index, Corporate Credit Spreads (Investment Grade vs High Yield), Yield Curve Shape (2s/10s spread), S&P 500 PE Ratio, Volatility (VIX Index), Household Debt-to-Income Ratio. 
- 
+
+
+##### Code Folder structure :
+ - `notebooks/`: Jupyter notebooks for each step of the pipeline.
+- `src/`: Source code for reusable functions (e.g., data loading, model evaluation).
+- `Data/`: Folder for datasets and data splits.
+- `models/`: Folder for saved models.
 
 
 
