@@ -1,8 +1,8 @@
 # Utilizing Machine Learning to Predict Which Stocks Warren Buffett is Likely to Buy Based on Past Investment History- A Predictive Modeling Approach
 
 ### Team Lambda
-Eliel Polanco/n
-Amita Patil 
+Eliel Polanco
+\nAmita Patil 
 Hunter Huberdeau 
 Hayden Realmuto
 
