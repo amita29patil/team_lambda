@@ -7,18 +7,7 @@ Hunter Huberdeau |
 Hayden Realmuto
 
 ## Abstract
-Team Lambda explores the use of machine learning to anticipate the stock purchasing behavior of renowned investor Warren Buffett. Conventional studies traditionally focus on general stock forecasting or portfolio optimization, while our approach emphasizes explainability and investor behavior modeling. By analyzing historical stock selections alongside company-level financial indicators, our team aims to model the underlying patterns that drive Buffett’s investment decisions. Drawing on the principles of value investing, we hypothesize that specific financial metrics—such as low price-to-earnings ratios, strong revenue growth, and high dividend yields—can serve as reliable predictors of future acquisitions. We applied dimensionality reduction using Principal Component Analysis (PCA) and built predictive models using XGBoost, Random Forest, and Elastic Net Linear Regression. 
-
-#### Question:
-Are investors like Warren Buffett likely to buy specific stocks next based on historical data and known investment behaviors?
-
-#### Hypothesis: 
-If an individual's investment philosophy can be reverse-engineered, we can predict their next stock purchase. Investor decisions are influenced by a multitude of factors including financial metrics, economic data, and market sentiment. By analyzing the historical tendencies of a great investor -- we aim to build a model that can predict an investor's next stock purchase.
-
-#### Predictions:
-1. Historical Purchase Behavior: If an investor has a pattern of purchasing stocks in a particular industry (e.g., technology), they are likely to continue purchasing stocks from the same industry.
-2. Market Sentiment: Positive news and market sentiment surrounding a particular stock could increase the probability of an investor choosing that stock next. 
-3. Value Investing: Stocks deemed undervalued by valuation metrics like the price-to-earnings ratio (P/E) and price-to-book ratio (P/B) will have a higher probability than overvalued stocks. 
+Team Lambda explores the use of machine learning to anticipate the stock purchasing behavior of renowned investor Warren Buffett. Conventional studies traditionally focus on general stock forecasting or portfolio optimization, while our approach emphasizes explainability and investor behavior modeling. By analyzing historical stock selections alongside company-level financial indicators, our team aims to model the underlying patterns that drive Buffett’s investment decisions. Drawing on the principles of value investing, we hypothesize that specific financial metrics—such as low price-to-earnings ratios, strong revenue growth, and high dividend yields can serve as reliable predictors of future acquisitions. We applied dimensionality reduction using Principal Component Analysis (PCA) and built predictive models using XGBoost, Random Forest, and Elastic Net Linear Regression. The resulting final models will function as a decision-support tool, empowering individual investors with forward-looking insights into one of the most closely followed investment strategies in modern finance.
 
 #### Data Sets:
 Bloomberg Terminal - Time series historical data of financial and economic metrics.
