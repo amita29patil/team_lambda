@@ -9,12 +9,12 @@ Hayden Realmuto
 ## Abstract
 Team Lambda explores the use of machine learning to anticipate the stock purchasing behavior of renowned investor Warren Buffett. Conventional studies traditionally focus on general stock forecasting or portfolio optimization, while our approach emphasizes explainability and investor behavior modeling. By analyzing historical stock selections alongside company-level financial indicators, our team aims to model the underlying patterns that drive Buffett’s investment decisions. Drawing on the principles of value investing, we hypothesize that specific financial metrics—such as low price-to-earnings ratios, strong revenue growth, and high dividend yields can serve as reliable predictors of future acquisitions. We applied dimensionality reduction using Principal Component Analysis (PCA) and built predictive models using XGBoost, Random Forest, and Elastic Net Linear Regression. The resulting final models will function as a decision-support tool, empowering individual investors with forward-looking insights into one of the most closely followed investment strategies in modern finance.
 
-#### Data Sets:
+### Data Sets:
 Bloomberg Terminal - Time series historical data of financial and economic metrics.
 
 DATAROMA (https://www.dataroma.com) - Portfolio activity. 
 
-#### Features and Observations: 
+### Features and Observations: 
 ##### Qualitative: 
 Sector, Industry, Sentiment 
 
@@ -24,7 +24,7 @@ Return on Equity (ROE), Return on Assets (ROA), Gross Profit Margin, Operating P
 ##### Economic: 
 Federal Funds Rate, 10-Year Treasury Yield, Inflation Rate (CPI, PPI), GDP Growth Rate, Unemployment Rate, Consumer Confidence Index, Corporate Credit Spreads (Investment Grade vs High Yield), Yield Curve Shape (2s/10s spread), S&P 500 PE Ratio, Volatility (VIX Index), Household Debt-to-Income Ratio. 
 
-### 
+
 
 ##### Code Folder structure :
  - `notebooks/`: Jupyter notebooks for each step of the pipeline.
