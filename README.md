@@ -28,7 +28,10 @@ Federal Funds Rate, 10-Year Treasury Yield, Inflation Rate (CPI, PPI), GDP Growt
 
 #### How to run our code:
 
-Our code is structured in chronological order for the most streamlined approach for displaying our EDA, feature engineering, and modeling approach. For the complete analysis, please run all numbered 'notebook' files from 01-07. For running all of our models, use the 'src' folder and run the evaluate_models_notebook.jpynb file. 
+Our code is structured in chronological order for the most streamlined approach for displaying our EDA, feature engineering, and modeling approach. 
+First, create a python virtual environment and import all required libraries using the 'requirements.txt' file located in the parent directory 'Team_Lambda'.
+For the complete analysis, please run all numbered 'notebook' files from 01-07. 
+For running all of our models, use the 'src' folder and run the evaluate_models_notebook.jpynb file. 
 
 #### Code Folder structure :
  - `notebooks/`: Jupyter notebooks for each step of the pipeline.
