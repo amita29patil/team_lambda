@@ -1,4 +1,4 @@
-# Utilizing Machine Learning to Predict Which Stocks Warren Buffett is Likely to Buy Based on Past Investment History- A Predictive Modeling Approach
+# Predicting Investor Stock Purchases: Emulating Buffett's Buy Behavior with Machine Learning
 
 ### Team Lambda
 Eliel Polanco |
