@@ -6,8 +6,8 @@ Amita Patil |
 Hunter Huberdeau | 
 Hayden Realmuto
 
-## Abstract -add results section (XGboost best performing model, with random forest to follow)
-Team Lambda explores the use of machine learning to anticipate the stock purchasing behavior of renowned investor Warren Buffett. Conventional studies traditionally focus on general stock forecasting or portfolio optimization, while our approach emphasizes explainability and investor behavior modeling. By analyzing historical stock selections alongside company-level financial indicators, our team aims to model the underlying patterns that drive Buffett’s investment decisions. Drawing on the principles of value investing, we hypothesize that specific financial metrics—such as low price-to-earnings ratios, strong revenue growth, and high dividend yields can serve as reliable predictors of future acquisitions. We applied dimensionality reduction using Principal Component Analysis (PCA) and built predictive models using XGBoost, Random Forest, and Elastic Net Linear Regression. The resulting final models will function as a decision-support tool, empowering individual investors with forward-looking insights into one of the most closely followed investment strategies in modern finance.
+## Abstract
+Team Lambda explores the use of machine learning to anticipate the stock purchasing behavior of renowned investor Warren Buffett. Conventional studies traditionally focus on general stock forecasting or portfolio optimization. Our project combines behavioral finance and machine learning to explore this question by modeling Buffett's historical investment decisions using stock-level financial fundamentals and macroeconomic indicators. Drawing on the principles of value investing, we hypothesize that specific financial metrics—such as low price-to-earnings ratios, strong revenue growth, and high dividend yields can serve as reliable predictors of future acquisitions. We engineered a dataset of over 39,000 quarterly stock observations from 2007 to 2024, incorporating company metrics (e.g., P/E, ROE, Profit Margin) and economic conditions (e.g., GDP, CPI). We applied dimensionality reduction using Principal Component Analysis (PCA) and built predictive models using XGBoost, Random Forest, and Elastic Net Linear Regression., and applying nearest neighbor matching, we achieved an F1-score of 0.71 and an AUC of 0.82. The resulting final models will function as a decision-support tool, empowering individual investors with forward-looking insights into one of the most closely followed investment strategies in modern finance.
 
 ### Data Sets:
 Bloomberg Terminal - Time series historical data of financial and economic metrics.
@@ -28,7 +28,7 @@ Federal Funds Rate, 10-Year Treasury Yield, Inflation Rate (CPI, PPI), GDP Growt
 
 #### How to run our code:
 # UPDATE THIS
-Our code is structured in chronological order for the most streamlined approach for displaying our EDA, feature engineering, and modeling approach. Starting with notebook 01... and continuing through notebook xx... will provide a complete and comprehensive analysis
+Our code is structured in chronological order for the most streamlined approach for displaying our EDA, feature engineering, and modeling approach. 
 
 #### Code Folder structure :
  - `notebooks/`: Jupyter notebooks for each step of the pipeline.
